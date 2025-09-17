@@ -44,8 +44,8 @@ I specialize in building intelligent systems that combine **machine learning, so
 
 ## 📫 How to Reach Me
 
-* 📧 Email: **\[your email here]**
-* 💼 LinkedIn: **\[your LinkedIn link]**
+* 📧 Email: **\[sndunda05@gmail.com]**
+* 💼 LinkedIn: **\[www.linkedin.com/in/simon-makau-053b92302]**
 * 🐙 GitHub: [Srealm-1](https://github.com/Srealm-1)
 
 ---
