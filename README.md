@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi there, I’m Simon Ndunda
+# 👋 Hi there, I’m Sipher
 
 🚀 **AI & Machine Learning Engineer | Software Developer | Tech Enthusiast**
 
@@ -43,9 +43,6 @@ I specialize in building intelligent systems that combine **machine learning, so
 ---
 
 ## 📫 How to Reach Me
-
-* 📧 Email: **\[sndunda05@gmail.com]**
-* 💼 LinkedIn: **\[www.linkedin.com/in/simon-makau-053b92302]**
 * 🐙 GitHub: [Srealm-1](https://github.com/Srealm-1)
 
 ---
